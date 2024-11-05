@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugureamo.github.io/BGN/sitemap_index.txt
+Sitemap: https://ugureamo.github.io/BJa/sitemap_index.txt
+Sitemap: https://ugureamo.github.io/ufe/sitemap_index.txt
+Sitemap: https://ugureamo.github.io/xAq/sitemap_index.txt
